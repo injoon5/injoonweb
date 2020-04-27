@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8">
 <style>
 body {
   margin: 0;
@@ -83,9 +82,9 @@ ul li.checked::before {
 
 /* Style the header */
 .header {
-  background-color: linear-gradient( 45deg, Sky blue, Green );
+  background-color: #f44336;
   padding: 30px 40px;
-  color: white;
+  color: Green;
   text-align: center;
 }
 
@@ -130,13 +129,12 @@ input {
 
 <div id="myDIV" class="header">
   <h2 style="margin:5px">My To Do List</h2>
-  <input type="text" id="myInput" placeholder="검색...">
-  <span onclick="newElement()" class="addBtn">추가</span>
+  <input type="text" id="myInput" placeholder="Title...">
+  <span onclick="newElement()" class="addBtn"></span>
 </div>
 
 <ul id="myUL">
   <li>Hit the gym</li>
-  <li class="checked">Pay bills</li>
   <li>Meet George</li>
   <li>Buy eggs</li>
   <li>Read a book</li>
@@ -150,7 +148,7 @@ var i;
 for (i = 0; i < myNodelist.length; i++) {
   var span = document.createElement("SPAN");
   var txt = document.createTextNode("\u00D7");
-  span.className = "닫기";
+  span.className = "close";
   span.appendChild(txt);
   myNodelist[i].appendChild(span);
 }
@@ -180,7 +178,7 @@ function newElement() {
   var t = document.createTextNode(inputValue);
   li.appendChild(t);
   if (inputValue === '') {
-    alert("무언가를 써야 저장이 됩니다.");
+    alert("You must write something!");
   } else {
     document.getElementById("myUL").appendChild(li);
   }

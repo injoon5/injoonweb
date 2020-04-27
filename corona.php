@@ -18,7 +18,7 @@ https://corona-19-php--dhlife09.repl.co/ 에서 본 소스코드를 사용해볼
     echo '국내 치료중: '. $json1['NowCase']. "<br>";
     echo '국내 완치자: '. $json1['recoveredPercentage']. "<br>";
     echo '국내 사망자: '. $json1['deathPercentage']. "<br>";
-    <b>";echo '국내 확진자: '. $json1['TotalCase']. "</b>
+    <b><h1>'국내 확진자: '. $json1['TotalCase']. </h1></b>
   } else if ($key == null) {
     echo 'API 키가 입력되지 않았습니다.';
   } else {

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://oijweb.netlify.app/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/index.html</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#header</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#about</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#features</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#gallery</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#team</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#pricing</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-1.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-2.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-3.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-4.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-5.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-6.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-7.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/assets/img/gallery/gallery-8.jpg</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#faq-list-1</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#faq-list-2</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#faq-list-3</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#faq-list-4</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://oijweb.netlify.app/#</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+	</urlset>
+

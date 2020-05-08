@@ -170,7 +170,7 @@
 
   // Initi AOS
   AOS.init({
-    duration: 700,
+    duration: 150,
     easing: "ease-in-out",
     once: true,
     mirror: false

@@ -50,8 +50,8 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  -webkit-animation: animate-preloader 1s linear infinite;
-  animation: animate-preloader 1s linear infinite;
+  -webkit-animation: animate-preloader 0.5s linear infinite;
+  animation: animate-preloader 0.5s linear infinite;
 }
 
 @-webkit-keyframes animate-preloader {
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(0deg);
   }
   100% {
-    transform: rotate(360deg);
+    transform: rotate(180deg);
   }
 }
 
